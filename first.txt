@@ -2,4 +2,5 @@
 名前間違ってた！
 ・git add
 ・git commit
-・gir rm
+・git rm
+・git status
