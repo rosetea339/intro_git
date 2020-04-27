@@ -1,2 +1,4 @@
 初めてのgit管理
 名前間違ってた！
+・git add
+・git commit
